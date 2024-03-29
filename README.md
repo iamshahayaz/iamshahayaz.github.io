@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate learner from India who loves exploring new technologies!</h3>
 &nbsp;
-
+ 
  <img src="https://github-profile-trophy.vercel.app/?username=iammehrose&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
 <img align="right" width="340" src="https://zadbano.pl/wp-content/uploads/2021/04/fullstack_3_2.png">
 &nbsp;&nbsp;&nbsp;
